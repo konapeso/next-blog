@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Header from "./Header";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -13,7 +14,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className="container mx-auto bg-slate-700 text-slate-50">
+        <Header />
+        {children}
+        <footer>footer</footer>
+      </body>
     </html>
   );
 }
