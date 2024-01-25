@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "next.js-udemy",
+      "title": "Next.jsをUdemyで学ぶ",
+      "content": "Udemyの教材でNext.jsのAppRouterを学んでいます。",
+      "createdAt": "2024/01/25"
+    },
+    {
+      "id": "json-sercer",
+      "title": "json-serverを使ってみる",
+      "content": "json-serverを使ってみます。これはjson-serverのコンテンツです。",
+      "createdAt": "2024/01/25"
+    }
+  ]
+}
