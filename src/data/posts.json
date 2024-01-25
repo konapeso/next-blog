@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": "next.js-udemy",
+      "id": "nextjs-udemy",
       "title": "Next.jsをUdemyで学ぶ",
       "content": "Udemyの教材でNext.jsのAppRouterを学んでいます。",
       "createdAt": "2024/01/25"
